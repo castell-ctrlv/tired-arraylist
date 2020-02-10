@@ -7,6 +7,7 @@ namespace Practices
     {
         static void Main(string[] args)
         {
+            //TODO execution
             string[] letters = {"first","second","third"};
             int[] numbers = new int[3];
             for (int i=0;i<3;i++ )
